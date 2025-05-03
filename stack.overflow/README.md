@@ -1,4 +1,4 @@
 ## 🎨 LLD Design
 
 
-![UI Overview](design/LLD-DESIGN.png)
+![UI Overview](../designs/StackOverFlow.png)
